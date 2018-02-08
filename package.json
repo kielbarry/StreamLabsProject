@@ -10,8 +10,11 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "auth0-js": "^9.2.1",
     "vue": "^2.5.2",
     "vue-captcha": "^1.0.2",
+    "vue-google-auth": "^1.0.5",
+    "vue-google-signin-button": "^1.0.2",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
